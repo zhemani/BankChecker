@@ -1,3 +1,3 @@
 # BankChecker
-Simple bank application which includes a savings and checking account.
+A bank program which allows a user to complete transactions while making use of checking and saving features.
 Written in Java.
